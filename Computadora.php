@@ -24,7 +24,7 @@
 	<section class="main">
 		<div class="wrapp">
 			<div class="mensaje">
-				<h1>Registrate</h1>
+				<h1>Computadora</h1>
 			</div>
 
 			<div class="articulo">
