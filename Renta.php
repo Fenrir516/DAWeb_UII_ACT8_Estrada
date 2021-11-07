@@ -25,7 +25,7 @@
 	<section class="main">
 		<div class="wrapp">
 			<div class="mensaje">
-				<h1>Ayuda o Comentarios</h1>
+				<h1>Renta</h1>
 			</div>
 
 			<div class="articulo">
