@@ -62,7 +62,7 @@
             <p> No lista 11 </p>
             <p> // SUBMÓDULO 2
                 Desarrolla aplicaciones Web con conexión a bases de datos</p>
-            <p>https://github.com/elinava-web </p>
+            <p>https://github.com/Fenrir516</p>
 		</div>
 	</footer>
 </body>
